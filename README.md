@@ -1,7 +1,5 @@
 # Welcome to the Hangman Games
 
-Note : Program incomplete only for  Practice in class programing in python 
-
     Program Content:
 - hangman.py
 - words.py
@@ -10,6 +8,7 @@ Note : Program incomplete only for  Practice in class programing in python
 - requirements.txt
 - pipfile
 - pipfile.lock
+- hangmanpics.py
 
 
 Programa iniciado en clase de la materia de programacion en python.
@@ -24,4 +23,8 @@ Example:
  
 
 Update 1.2
+
 - Deploying pipenv virtual environment with libraries[dev-packages] colorama and Django [packages] and using colorama for coloring a linea of string when print _ _ _ _ _ _ 
+
+update 1.3
+- Add ascii in the class hangmanpics.py
